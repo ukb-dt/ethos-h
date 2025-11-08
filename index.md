@@ -306,7 +306,13 @@ But he'd rather you just stayed in the pew. 🎭
 
 # E
 
-Turi Ivyabona: soil -> roots -> trunk -> branches -> canopy. All idealism is a single path-dependency, mocking natures intelligence, contigency, and redundancy!
+### Natwe turi ivyabona
+
+**soil → roots → trunk → branches → canopy**
+
+All idealism is a single path dependency—mocking nature’s intelligence, contingency, and redundancy.
+
+
 
 <div>
   <iframe
