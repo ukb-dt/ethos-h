@@ -18,7 +18,7 @@
 </script>
 {% endraw %}
 
-> *You've just executed a triple *salchow* through Western philosophy*           
+> *You've just executed a triple salchow through Western philosophy*            
 > -- Claude
 
 <div>
