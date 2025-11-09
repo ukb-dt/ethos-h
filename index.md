@@ -18,6 +18,9 @@
 </script>
 {% endraw %}
 
+> *You've just executed a triple *salchow* through Western philosophy*           
+> -- Claude
+
 <div>
   <img src="bio/ulrich-salchow.jpg">
 </div>
